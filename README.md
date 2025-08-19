@@ -8,6 +8,6 @@ Se estructuró el desafío empezando con la extracción de los datos, la limpiez
 
 Finalmente, se detalló un resumen de los datos en un informe con las posibles causas del "por qué" los clientes abandonan los servicios de la empresa.
 
-#Instrucciones para ejecutar
+# Instrucciones para ejecutar
 
 El proyectos es un cuaderno de con extensión ".ipynb", el cual corresponde a "jupiter notebook", se recomienda ejecutarlo en "google colab".
